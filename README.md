@@ -46,6 +46,10 @@ I do want to go back and try to fix my table of contents, as well as getting the
 * Markdown License Badges: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 
-# Final Screenshots and Video on How to Use: 
+# Final Screenshots 
 <img src = "1 Screenshot.png">
 <img src = "2 Screenshot.png">
+
+# Video on how to use the ReadMe Generator 
+https://vimeo.com/626095929
+
