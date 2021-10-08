@@ -47,3 +47,5 @@ I do want to go back and try to fix my table of contents, as well as getting the
 
 
 # Final Screenshots and Video on How to Use: 
+<img src = "1 Screenshot.png">
+<img src = "2 Screenshot.png">
