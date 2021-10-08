@@ -28,7 +28,7 @@ When previewing it using the Command Pallette, when I wanted my TOC to look like
 * Description
 * Installation
 * Etc.
-Turns out, it was a rather small and kinda obvious mistake that took a simple backspace to fix. Looking back at it now, the mistake was kinda silly.
+Turns out, it was a rather small and kinda obvious mistake that took a simple backspace to fix. Looking back at it now, the mistake was kinda silly. Another problem that came along with creating the TOC, was getting the links to work, I'm not sure if it was something that I did, but whenever I would click on one of the "links" in the TOC, only the first link would work and take you to it's corresponding section while the others wouldnt. I tried to google a solution for this problem but my code "seemed" fine compared to how other people would make a working TOC. It's the smallest problem that I have but it's the one that stressed me out the most.
 
 - Problem Number 2:
 Another problem that I had was that the license badges wouldnt display, I went on @Lukas-H's GitHub to find the different types of badges that can be used as well as the license links. After doing a little bit of research on how to display them, nothing really seemed to be working so I just left the functions bank because I didnt want to mess anything up, this is something I need to fix for the future. 
@@ -36,16 +36,14 @@ Another problem that I had was that the license badges wouldnt display, I went o
 
 
 # Final Thoughts:
-Overall this assignment seemed very "chill" for me compared to the others we've done in class, I really feel like I learned alot about Node.Js and how it is very much useful in being able to create things
-
-For me, creating a ReadMe feels like it takes way more time than it should, I know that I like to get in every little detail on what I did for the assignment, but sometimes it is a pain to make. 
+Overall this assignment seemed very "chill" for me compared to the others we've done in class, I really feel like I learned alot about Node.Js and how it is very much useful in being able to create things like am HTML document or in this case a ReadMe.
+I do want to go back and try to fix my table of contents, as well as getting the badges for the licenses to display. 
 
 
 
 # Resources Used:
 
 * Markdown License Badges: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-
 
 
 # Final Screenshots and Video on How to Use: 
